@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+[data-reach-tab-list] {
+    display: flex;
+    background: deeppink !important;
+}
+[data-reach-tab] { 
+    border-bottom: 3px solid black;
+    width: 455px;
+    height: 42px;
+}
